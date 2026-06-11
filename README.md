@@ -135,13 +135,26 @@ The correlation heatmap shows that population values across different years are 
 
 ### Population Trends by Continent
 
+The chart highlights how population growth differs across regions over time.
+
+Asia remains the dominant population center throughout the dataset, while Africa shows one of the strongest growth trajectories between 1970 and 2022.
+
 ![Population Trends](population_chnages_over_years.png)
 
-### Population Distribution & Outliers
+
+## Population Distribution & Outliers
+
+Population data is highly skewed. A small number of countries contain extremely large populations compared to the majority of countries in the dataset.
+
+The boxplot helps identify these outliers and highlights why median-based analysis can often be more informative than relying solely on averages.
 
 ![Population Outliers](population_outliers.png)
 
-### Correlation Heatmap
+## Correlation Heatmap
+
+Population values across different years show very strong positive correlations, reflecting the gradual nature of demographic change over time.
+
+The heatmap also provides a quick view of how population, area, density, and growth-related variables relate to one another.
 
 ![Correlation Heatmap](population_corelation_heatmap.png)
 
