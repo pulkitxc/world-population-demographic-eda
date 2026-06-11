@@ -131,6 +131,20 @@ Not every country grew between 1970 and 2022. Some countries and territories sho
 
 The correlation heatmap shows that population values across different years are strongly related, which makes sense because population changes gradually over time.
 
+## Key Visualizations
+
+### Population Trends by Continent
+
+![Population Trends](population_chnages_over_years.png)
+
+### Population Distribution & Outliers
+
+![Population Outliers](population_outliers.png)
+
+### Correlation Heatmap
+
+![Correlation Heatmap](population_corelation_heatmap.png)
+
 ## Tools Used
 
 * Python
